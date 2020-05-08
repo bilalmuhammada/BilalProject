@@ -1,6 +1,6 @@
-##Desktp controll using gesture in java  cv and opencv(netbean)
+## Desktp controll using gesture in java  cv and opencv(netbean)
 
-#Architecture  Diagram
+# Architecture  Diagram
 ![](arch.PNG)
 Reqiured Software
 * JAVA (Latest Version)
